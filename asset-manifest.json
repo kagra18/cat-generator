@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kagra18/cat-generator/static/css/main.c4a93599.chunk.css",
+    "main.js": "/kagra18/cat-generator/static/js/main.4b0dfb97.chunk.js",
+    "main.js.map": "/kagra18/cat-generator/static/js/main.4b0dfb97.chunk.js.map",
+    "runtime-main.js": "/kagra18/cat-generator/static/js/runtime-main.73870f0c.js",
+    "runtime-main.js.map": "/kagra18/cat-generator/static/js/runtime-main.73870f0c.js.map",
+    "static/js/2.ae1fbc28.chunk.js": "/kagra18/cat-generator/static/js/2.ae1fbc28.chunk.js",
+    "static/js/2.ae1fbc28.chunk.js.map": "/kagra18/cat-generator/static/js/2.ae1fbc28.chunk.js.map",
+    "index.html": "/kagra18/cat-generator/index.html",
+    "precache-manifest.f5f6d569dc30ea4510ebd95805f58a0f.js": "/kagra18/cat-generator/precache-manifest.f5f6d569dc30ea4510ebd95805f58a0f.js",
+    "service-worker.js": "/kagra18/cat-generator/service-worker.js",
+    "static/css/main.c4a93599.chunk.css.map": "/kagra18/cat-generator/static/css/main.c4a93599.chunk.css.map",
+    "static/js/2.ae1fbc28.chunk.js.LICENSE": "/kagra18/cat-generator/static/js/2.ae1fbc28.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73870f0c.js",
+    "static/js/2.ae1fbc28.chunk.js",
+    "static/css/main.c4a93599.chunk.css",
+    "static/js/main.4b0dfb97.chunk.js"
+  ]
+}
